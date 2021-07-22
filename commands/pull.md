@@ -15,4 +15,4 @@ If there is any upstream connection established, you can use `git pull` without 
 - [Git Pull Documentation](https://git-scm.com/docs/git-pull)
 ---
 
-[Back to Home](../Readme.md)
+[Back to Home](../README.md)

@@ -17,4 +17,4 @@ Init will create the repository in the current directory and will encapsulate al
 ## Resources
 - [Git init Documentation](https://git-scm.com/docs/git-init)
 ---
-[Back to Home](../Readme.md)
+[Back to Home](../README.md)

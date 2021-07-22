@@ -25,4 +25,4 @@ After this command is used, you can just use `git push` and it will function the
 ## Resources
 - [git push documentation](https://git-scm.com/docs/git-push)
 ---
-[Back to Home](../Readme.md)
+[Back to Home](../README.md)

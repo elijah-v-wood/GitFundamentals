@@ -16,4 +16,4 @@ Then when viewing the history of the git repository, you can pinpoint where the 
 ## Resources
 - [Git Commit Documentation](https://git-scm.com/docs/git-commit)
 ---
-[Back to Home](../readme.md)
+[Back to Home](../README.md)
