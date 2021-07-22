@@ -9,9 +9,6 @@ It can be done with the `git clone` seen here:
 git clone https://github.com/ElevenfiftyAcademy/TerminalDungeon.git
 ```
 ## Resources
-- [Git init Documentation](https://git-scm.com/docs/git-init)
+- [Git Clone Documentation](https://git-scm.com/docs/git-clone)
 ---
 [Back to Home](../README.md)
-
-
-
