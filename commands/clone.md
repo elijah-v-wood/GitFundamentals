@@ -8,8 +8,7 @@ It can be done with the `git clone` seen here:
 ```
 git clone https://github.com/ElevenfiftyAcademy/TerminalDungeon.git
 ```
-
 ## Resources
-- [Git Clone Documentation](https://git-scm.com/docs/git-clone)
+- [Git init Documentation](https://git-scm.com/docs/git-init)
 ---
 [Back to Home](../README.md)
